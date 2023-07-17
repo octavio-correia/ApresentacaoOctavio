@@ -8,7 +8,7 @@ header {
 body {
     margin-left: 50px;
     margin-right: 50px;
-    background-color: rgb(83, 47, 35);
+    background-color: rgb(207, 180, 127);
 }
 
 .boxVertical {
@@ -27,8 +27,8 @@ h1 {
 }
 
 p {
-    color: rgb(209, 199, 193);
-    text-shadow: 1px 1px 2px black;
+    color: black;
+    text-shadow: 1px 1px 2px rgb(209, 199, 193);
     text-align: justify;
 }
 
